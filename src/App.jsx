@@ -32,7 +32,7 @@ function App() {
         <button className='button-add' onClick={multiplyNumber}>*</button>
         <button className='button-add' onClick={defalutNumber}>R</button> 
         {number}
-        {ageV > 20 && <div>Is major than 20</div>}
+        {ageV > 20 && <div>Is major than 20, cambios de dev_moi</div>}
         <Container mode={mode}>
           <p>Inside the container</p>
         </Container>
